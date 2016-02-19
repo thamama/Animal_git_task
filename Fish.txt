@@ -1,0 +1,23 @@
+Barracuda
+Clam
+Cod
+Crab
+Dogfish
+Eel
+Fish
+Goldfish
+Herring
+Jellyfish
+Lobster
+Octopus
+Oyster
+Salmon
+Sand Dollar
+Sardine
+Sea Urchin
+Seahorse
+Shark
+Shrimp
+Squid
+Stingray
+Trout
